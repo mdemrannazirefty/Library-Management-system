@@ -32,9 +32,9 @@ This repository contains two versions of the Library Management System:
 - Viewing lending and return histories
 - Improved data persistence and functionality
 
-- Clone the Repository:[ git clone https://github.com/mdemrannazirefty/Library-Management-system.git ]
-- Navigate to the project directory: **cd Library-Management-system**
-- Run the main program:  **python Library_Management_System.py**
+Clone the Repository:[ git clone https://github.com/mdemrannazirefty/Library-Management-system.git ]
+**Navigate to the project directory:** cd Library-Management-system
+**Run the main program:**  python Library_Management_System.py
 
 ### Future Enhancements:
 - Integrate a database for better scalability.

@@ -5,7 +5,7 @@
 - Add, update, remove, and view books.
 ### Lending System:
 - Lend books to users by recording borrower details, phone numbers, and due dates.
--Automatically updates book quantities during lending and returns.
+- Automatically updates book quantities during lending and returns.
 ### Return System:
 - Process book returns and restore quantities.
 - Manage lending and return records for future reference.
@@ -17,6 +17,20 @@
 ### Technologies:
 - **Python:** Core language used for implementation.
 - **JSON:** For lightweight data storage.
+
+## Version Information
+This repository contains two versions of the Library Management System:
+
+#### Version 1.0:
+
+- A basic implementation with core features such as adding, updating, removing, searching, and viewing books.
+#### Version 2.0 (Latest):
+
+- An advanced version with new features, including:
+- Book Lending System
+- Book Return System
+- Viewing lending and return histories
+- Improved data persistence and functionality
 
 - Clone the Repository:[ git clone https://github.com/mdemrannazirefty/Library-Management-system.git ]
 - Navigate to the project directory: **cd Library-Management-system**

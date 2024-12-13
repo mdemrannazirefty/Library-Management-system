@@ -34,6 +34,7 @@ This project serves as a robust foundation for future enhancements, such as data
 
 ## Support or Future Queries
 Feel free to explore, contribute, and customize this project to suit your needs. Thank you for using the Advanced Library Management System!
+
 **Email:** mdemrannazirefty@gmail.com
 
 I appreciate your feedback and are open to collaborations or further enhancements of this project!

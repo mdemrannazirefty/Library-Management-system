@@ -4,7 +4,7 @@
 ### Book Management:
 - Add, update, remove, and view books.
 ### Lending System:
--Lend books to users by recording borrower details, phone numbers, and due dates.
+- Lend books to users by recording borrower details, phone numbers, and due dates.
 -Automatically updates book quantities during lending and returns.
 ### Return System:
 - Process book returns and restore quantities.
